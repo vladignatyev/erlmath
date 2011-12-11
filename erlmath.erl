@@ -74,7 +74,7 @@ reductor (CallbackPid, WorkersCount, Result) ->
 	end.
 	
 %%============================================================================
-%% Function: multiplicator/1, WHICH MULTIPLIES EACH PAIR PROVIDED IN PAIRSLIST
+%% Function: multiplicator/1
 %% Purpose: Multiplies each pair, provided in PairsList 
 %%   and sends it to reductor process
 %%============================================================================
